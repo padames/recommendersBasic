@@ -4,12 +4,12 @@ This is publicly available development code used to learn and test concepts and 
 Using github and git >=2.17
 
 When using python:
-python version >=3.6.9 from anaconda
-editor Wing Pro 7 >=7.2.2.8
+* python version >=3.6.9 from anaconda
+* editor Wing Pro 7 >=7.2.2.8
 
 When using R:
-r version >=3.6.3
-RStudio version >=1.2.5033
+* r version >=3.6.3
+* RStudio version >=1.2.5033
 
 
 Policies: 
