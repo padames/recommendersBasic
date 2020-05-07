@@ -1,7 +1,13 @@
 # Basic Recommenders
 This is publicly available development code used to learn and test concepts and basic ideas about statistical learning in recommender systems.
 
-Using github and git >=2.17
+# Temporary repo to store more than just code
+Storing freeliy available pdf books and some papers for personal study obtained through the UofC or freely available
+
+# Code tool versions
+
+Using github and git:
+* git >= 2.17
 
 When using python:
 * python version >=3.6.9 from anaconda
