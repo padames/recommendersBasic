@@ -2,7 +2,7 @@
 This is publicly available development code used to learn and test concepts and basic ideas about statistical learning in recommender systems.
 
 # Temporary repo to store more than just code
-Storing freeliy available pdf books and some papers for personal study obtained through the UofC or freely available
+Storing freely available pdf books and some papers for personal study obtained through the UofC or freely available
 
 # Code tool versions
 
