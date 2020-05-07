@@ -30,3 +30,8 @@ Follow with two cases: an item-based collaborative filter and a user-based colla
 Then test cold-start with a content-based recommender using association rules. 
 
 Then build a hybrid recommender using both strategies.
+
+### MovieLens examples
+There are two sources for this basic _hello world_ type of example.
+
+The first one can be seen in the **src** folder, a python Jupyternotebook called `ch8_recommendation_system.ipynb` from the book _Introduction to Data Science_ by Laura Igual and Santi Segui, Springer 2017.
